@@ -1,4 +1,4 @@
-# Desmos_Projects
+# ***Desmos_Projects***
 > ***Desmos is an essential platform for creating visuals that utilize mathematics and graphs effectively.***
 
 ## 1.  Flower
