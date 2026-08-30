@@ -1,6 +1,10 @@
 # Desmos_Projects
 Desmos is an essential platform for creating visuals that utilize mathematics and graphs effectively.
 
+## 1.  Flower
+
+https://github.com/user-attachments/assets/920a5e35-f9d1-4e95-89e1-14f5f7ca3e3a
+
 ## 2. StringRay
 
 https://github.com/user-attachments/assets/1b2dadb6-ac6f-468b-a1a9-399fe46bca22
