@@ -11,6 +11,9 @@ https://github.com/user-attachments/assets/181c8399-bee4-4637-b7ab-548c671233c6
 
 3.  Snake
 
-![Alt Text](E:\Atharva\PROJECT 2026)
+![Project Screenshot](E:\Atharva\PROJECT 2026 "Bird _ Desmos and 1 more page - Atharva Aiwale - Microsoft​ Edge 2026-08-30 15-30-14")
+
+
+
 
 
